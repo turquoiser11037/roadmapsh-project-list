@@ -5,7 +5,7 @@ https://roadmap.sh/projects/cookie-consent
 https://roadmap.sh/projects/single-page-cv  
 https://roadmap.sh/projects/datepicker-ui  
 
-<div class="image-sections">
-  <img src="frontend/test-cookie-box/cookiebox.PNG" width="50%" height="50%" />   
-  <h1><a href="frontend/test-cookie-box">Cookie Box</a></h1>  
-</div>
+<h1><a href="frontend/test-cookie-box">Cookie Box</a></h1>  
+<img src="frontend/test-cookie-box/cookiebox.PNG" width="50%" height="50%"/>
+<h1><a href="frontend/single-page-cv">Single Page CV</h1>
+<img src="frontend/single-page-cv/singlepage-cv.PNG" width="50%" height="50%"/>
