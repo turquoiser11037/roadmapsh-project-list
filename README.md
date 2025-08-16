@@ -7,5 +7,5 @@ https://roadmap.sh/projects/datepicker-ui
 
 <div class="image-sections">
   <img src="frontend/test-cookie-box/cookiebox.PNG" width="50%" height="50%" />   
-  <p font-size="32px"><a href="frontend/test-cookie-box">Cookie Box</a></p>  
+  <p style="font-size: 32px;"><a href="frontend/test-cookie-box">Cookie Box</a></p>  
 </div>
